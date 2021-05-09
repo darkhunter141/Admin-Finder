@@ -23,7 +23,7 @@ pkg install python2 && git clone https://github.com/darkhunter141/Admin-Finder &
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="">
+<img src="https://raw.githubusercontent.com/darkhunter141/Admin-Finder/main/Screenshot_20210509_161312.jpg">
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
