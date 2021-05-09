@@ -1,4 +1,4 @@
-<b><h1> Tool⚡</h1><b>
+<b><h1>Website Admin Finder Tool⚡</h1><b>
 
 <h3><b>Installation : </b></h3>
 <br>
@@ -7,18 +7,18 @@
  pkg install python2
 ```
 ```
- git clone 
+ git clone https://github.com/darkhunter141/Admin-Finder
 ```
 ```
- cd 
+ cd Admin-Finder
 ```
 ```
- python2 
+ python2 adminfinder.py
 ```
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pkg install python2 && git clone 
+pkg install python2 && git clone https://github.com/darkhunter141/Admin-Finder && cd Admin-Finder && python2 adminfinder.py
 ```
 <br>
 <h3><b>📸Screenshot</b></h3>
